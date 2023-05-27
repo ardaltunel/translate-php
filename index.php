@@ -1,5 +1,6 @@
 <? include '../cdn.ardaltunel.com/ardaltunel.php'; ?>
 <?= $Doctype ?><?= $Lang ?>
+
 <head>
     <title>Translate - Arda Altunel</title>
     <?= $Meta ?><?= $GoogleTag ?><?= $GoogleAdSanse ?><?= $MetaIcons ?>
