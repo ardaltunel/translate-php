@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="assets/css/tailwind.min.css"/>
     <link rel="stylesheet" href="assets/css/style.css"/>
 </head>
+    
 <body class="bg-gray-900">
 
 <section class="text-gray-400 bg-gray-900 body-font relative">
